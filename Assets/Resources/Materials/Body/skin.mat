@@ -83,7 +83,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _OutlineNoiseMap:
-        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Texture: {fileID: 2800000, guid: 32338327a6a10484b9f114b17283ebd0, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _ParallaxMap:
@@ -133,8 +133,8 @@ Material:
     - _Metallic: 1
     - _OcclusionStrength: 1
     - _OutlineNoiseContrast: 1
-    - _OutlineNoiseCutOff: 0.098
-    - _OutlineNoiseScale: 7.48
+    - _OutlineNoiseCutOff: 0.175
+    - _OutlineNoiseScale: 73.03
     - _OutlineWidth: 0.03
     - _OutlineWidthFadeDistance: 1
     - _Parallax: 0.005
